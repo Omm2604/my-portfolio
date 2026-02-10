@@ -147,11 +147,11 @@ export default function Portfolio() {
               <p className="hero-greeting">Hello, I'm</p>
               <h1 className="hero-name">Omm Prakash Sahu</h1>
               <div className="hero-title">
-                Backend Engineer | Cloud Architect | ML Specialist
+                Web Developer | Cloud Architect | ML Enthusiast
               </div>
               <p className="hero-description">
-                Crafting scalable backend systems and intelligent ML solutions on AWS. 
-                Passionate about building robust APIs, deploying cloud-native applications, 
+                Crafting scalable backend systems and intelligent ML solutions on AWS. Passionate 
+                about building robust APIs, deploying cloud-native applications, 
                 and leveraging NLP to solve real-world problems.
               </p>
               <div className="hero-buttons">
